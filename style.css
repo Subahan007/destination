@@ -1,0 +1,203 @@
+body{
+
+    background-color: orangered;
+}
+#one{
+    background-color: aqua;
+    color: rgb(0, 72, 255);
+    font-size: 24px;
+    display: inline-block;
+    border-radius: 25px;
+    padding: 15px;
+}
+h2{
+    background-color: antiquewhite;
+    color: maroon;
+    display: inline-block;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+h3{
+    font-size:30px;
+    
+   }
+   #ah:hover{
+    color: darkcyan;
+   }
+   a{
+    color:antiquewhite;
+   }
+#second{
+    background-color: rgb(9, 185, 224);
+}
+#head{
+    color: blue;
+    
+}
+#vg1,#vg2,#vg3{
+    margin-left: 40px;
+    border-radius: 20%;
+    border: 15px double seagreen;
+}
+#vg4{
+    border-radius: 20%;
+    border: 15px double seagreen;
+
+}
+                              #linevg,#linevg2{
+                                color:#1560bd;
+                                font-size: 24px;
+                              }
+p{
+    color: white;
+    font-size: 18px;
+}
+
+#vb{
+    color: darkblue;
+    background-color:lightseagreen;
+    border: 5px double seagreen;
+}
+#jnthird{
+    background-color: white;
+}
+#three{
+    color: red;
+    margin-bottom: 50px;
+    font-style:oblique;
+    font-size: 40px;
+    padding-top: 50px;
+   
+   
+}
+#jnt,#jnt2{
+                   color:rgb(4, 4, 131);
+                   font-size: 25px;
+
+}
+#jimg{
+    padding: auto;
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    border-radius: 30px;
+    border-left: 8px groove darkred;
+}
+#jimg2{
+               padding: 30px;
+             width: 1000px;
+             height: 600px;
+             border-radius: 40px;
+
+}
+
+#jnp{
+    color: rgb(235, 61, 90);
+    font-size: 20px;
+}
+
+#mt{
+    color: white;
+    font-size: 24px;
+}
+#jnb{
+    border: 2px groove pink;
+    background-color: white;
+}
+#jnba{
+    color:red ;
+}
+#sa{
+    background-color: black;
+}
+#sa1{
+    color:gold;
+    padding-bottom: 50px;
+}
+#sbb{
+    background-color:goldenrod ;
+}
+#sba{
+    color:black ;
+}
+#simg{
+    padding: 30px;
+width: 1000px;
+height: 400px;
+border-radius: 40px;
+
+}
+#egypt{
+    padding: 20px;
+    font-size: 40px;
+    color: red;
+}
+#etbody{
+    background-color: sandybrown;
+  
+}
+#et1,#etp{
+    color: rgb(252, 0, 0);
+    font-size: 24px;
+
+
+}
+#eimg{
+           width: 800px;
+           height: 400px;
+           border-radius: 30px;
+           padding: 20px;
+}
+#etb{
+    background-color: white;
+    border: 2px groove red;
+}
+#etba{
+    color:sandybrown ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
